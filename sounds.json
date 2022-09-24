@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "soundName": "Zijde Nie Beschaamd",
+        "soundURL": "/sounds/zijde-nie-beschaamd.mp3"
+    },
+    {
+        "id": 2,
+        "soundName": "Als't u niet aanstaat",
+        "soundURL": "/sounds/alst-u-niet-aanstaat.mp3"
+    },
+    {
+        "id": 3,
+        "soundName": "Audi Driften",
+        "soundURL": "/sounds/audi-driften.mp3"
+    },
+    {
+        "id": 4,
+        "soundName": "Bleitmuile",
+        "soundURL": "/sounds/bleitemuile.mp3"
+    },
+    {
+        "id": 5,
+        "soundName": "Heerlijk is dat",
+        "soundURL": "/sounds/heerlijk-is-dat.mp3"
+    },
+    {
+        "id": 6,
+        "soundName": "Horloge JP",
+        "soundURL": "/sounds/horloge-jp.mp3"
+    },
+    {
+        "id": 7,
+        "soundName": "Kilometer tellerke",
+        "soundURL": "/sounds/kilometer-tellerke.mp3"
+    },
+    {
+        "id": 8,
+        "soundName": "Lachen Jegens",
+        "soundURL": "/sounds/lachen-jegens.mp3"
+    },
+    {
+        "id": 9,
+        "soundName": "Mail van jen hond",
+        "soundURL": "/sounds/mail-van-jen-hond.mp3"
+    },
+    {
+        "id": 10,
+        "soundName": "Mijn gat",
+        "soundURL": "/sounds/mijn-gat.mp3"
+    },
+    {
+        "id": 11,
+        "soundName": "Verantwoarde",
+        "soundURL": "/sounds/verantwoarde.mp3"
+    }
+]
